@@ -4,10 +4,8 @@ numpy
 pandas
 certifi==2020.12.5
 entrypoints==0.3
-jedi==0.17.0
-Jinja2 
-pywin32==227
-pywinpty==0.5.7
-pyzmq==20.0.0
-webencodings==0.5.1
-wincertstore==0.2
+joblib
+Jinja2
+scikit-learn
+scipy
+sklearn
